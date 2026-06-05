@@ -1,0 +1,8 @@
+{
+  "name": "Krishna Place",
+  "description": "Experience luxury hotel accommodations, interactive 360° suite virtual tours, Michelin dining amenities, and frictionless real-time reservation systems at Krishna Place.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
